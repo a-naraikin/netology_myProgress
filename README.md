@@ -1,1 +1,1 @@
-# Netology_myProgress
+# My study in Netology.
