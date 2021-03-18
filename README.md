@@ -13,3 +13,8 @@
 - [x] [Домашние задания для курса «Основы программирования»](https://github.com/a-naraikin/netology_pb-homeworks)  
 - [x] [Задание на дипломный проект курса «Основы программирования»](https://github.com/a-naraikin/netology_pb-diplom)  
 - [x] [Дипломный проект](https://repl.it/@aNaraikin/Diplom-riezultat-ighra-kriestiki-noliki#logic.js)
+
+Курс: Основы Javascript
+- [x] [Домашние задания по курсу «Основы Javascript»](https://github.com/a-naraikin/netology_bjs-homeworks)  
+- [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)  
+- [ ] Дипломный проект
