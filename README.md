@@ -14,6 +14,9 @@
 - [x] [Задание на дипломный проект курса «Основы программирования»](https://github.com/a-naraikin/netology_pb-diplom)  
 - [x] [Дипломный проект](https://codepen.io/N-Anna/pen/jOVjpxG)
 
+Курс: Git — система контроля версий
+- [x] [Домашние задания для курса «Git — система контроля версий»](https://github.com/a-naraikin/netology_git-homeworks) 
+
 Курс: Основы Javascript
 - [x] [Домашние задания по курсу «Основы Javascript»](https://github.com/a-naraikin/netology_bjs-homeworks)  
 - [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)  
