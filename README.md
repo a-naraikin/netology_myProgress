@@ -22,4 +22,4 @@
 - [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)  
 - [ ] Дипломный проект
 
-![](netology_pb-diplom/tictactoe.png)
+![](https://github.com/a-naraikin/netology_pb-diplom/blob/master/tictactoe.png)
