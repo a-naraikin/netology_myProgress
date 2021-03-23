@@ -21,3 +21,5 @@
 - [x] [Домашние задания по курсу «Основы Javascript»](https://github.com/a-naraikin/netology_bjs-homeworks)  
 - [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)  
 - [ ] Дипломный проект
+
+![](netology_pb-diplom/tictactoe.png)
