@@ -23,3 +23,4 @@
 - [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)
 
 Курс: Основы Javascript в браузере
+- [x] [Домашние задания по курсу «Основы Javascript в браузере»](https://github.com/a-naraikin/netology_bhj-homeworks)  
