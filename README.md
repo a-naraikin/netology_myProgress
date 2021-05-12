@@ -1,5 +1,6 @@
 # My study in Netology.
 Курс: Вводный курс в профессию Frontend-разработчик
+- [x] [Домашние задания для курса «Вводный курс в профессию Frontend-разработчик»](https://github.com/netology-code/wm-homeworks)  
 - [x] [Сертификат](https://drive.google.com/file/d/1Fj6k0nXJ5b92bXwGw6ms_nbnc-eKMyFo/view?usp=sharing)
 
 Курс: HTML-верстка: с нуля до первого макета
