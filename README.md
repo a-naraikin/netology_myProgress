@@ -7,6 +7,7 @@
 - [x] [Домашние задания для курса «HTML-верстка: с нуля до первого макета»](https://github.com/a-naraikin/netology_html-2-homeworks)  
 - [x] [Задание на дипломный проект курса «HTML-вёрстка: с нуля до первого макета»](https://github.com/a-naraikin/netology_html-2-diploma)  
 - [x] [Дипломный проект](https://codepen.io/N-Anna/pen/PoPweYd)
+- [x] [Сертификат](https://drive.google.com/file/d/1J2oM2Osquxu0yvIk03fDWbp8ZZW9b3E8/view)
 
 Курс: Адаптивная и мобильная верстка
 - [x] [Домашние задания для курса «Адаптивная и мобильная верстка»](https://github.com/a-naraikin/netology_mq-homeworks)  
