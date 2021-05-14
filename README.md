@@ -13,7 +13,7 @@
 - [x] [Домашние задания для курса «Адаптивная и мобильная верстка»](https://github.com/a-naraikin/netology_mq-homeworks)  
 - [x] [Задание на дипломный проект курса «Адаптивная и мобильная верстка»](https://github.com/a-naraikin/netology_mq-diploma)  
 - [x] [Дипломный проект](https://a-naraikin.github.io/netology_mq-diploma/)
-- [x] [Сертификат](https://drive.google.com/drive/folders/1__d3lXtZaxVriv-FeT8-QEQRlqYHMtdH)
+- [x] [Сертификат](https://drive.google.com/file/d/1mdKf7JP8XBK6wuRsRg5OIJ59YzK4Qa9J/view)
 
 Курс: Основы программирования
 - [x] [Домашние задания для курса «Основы программирования»](https://github.com/a-naraikin/netology_pb-homeworks)  
