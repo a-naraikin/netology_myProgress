@@ -28,7 +28,8 @@
 
 Курс: Основы Javascript
 - [x] [Домашние задания по курсу «Основы Javascript»](https://github.com/a-naraikin/netology_bjs-homeworks)  
-- [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)
+- [x] [Задание на дипломный проект курса «Основы JavaScript»](https://github.com/a-naraikin/netology_bjs-diplom)  
+- [x] [Сертификат](https://drive.google.com/file/d/1MptUBaZfm2Sg4kzmxtk1yMnsTiZItNX3/view)
 
 Курс: Основы Javascript в браузере
 - [x] [Домашние задания по курсу «Основы Javascript в браузере»](https://github.com/a-naraikin/netology_bhj-homeworks)  
