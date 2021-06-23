@@ -19,8 +19,7 @@
 - [x] [Домашние задания для курса «Основы программирования»](https://github.com/a-naraikin/netology_pb-homeworks)  
 - [x] [Задание на дипломный проект курса «Основы программирования»](https://github.com/a-naraikin/netology_pb-diplom)  
 - [x] [Дипломный проект](https://codepen.io/N-Anna/pen/jOVjpxG)
-- [x] [Сертификат](https://drive.google.com/file/d/11IV-o33wg1xNHV4uYbHFplIjUQiJw5ji/view)  
-![](https://github.com/a-naraikin/netology_pb-diplom/blob/master/tictactoe.png)
+- [x] [Сертификат](https://drive.google.com/file/d/11IV-o33wg1xNHV4uYbHFplIjUQiJw5ji/view)
 
 Курс: Git — система контроля версий
 - [x] [Домашние задания для курса «Git — система контроля версий»](https://github.com/a-naraikin/netology_git-homeworks) 
